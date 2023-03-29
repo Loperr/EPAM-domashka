@@ -1,1 +1,1 @@
-bruh momento
+bruh momento un un gran
