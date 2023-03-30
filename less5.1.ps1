@@ -1,1 +1,4 @@
-bruh momento un un gran
+class Dice {
+    [int]$Max
+    [int]$Min
+}
